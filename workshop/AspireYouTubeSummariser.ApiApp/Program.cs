@@ -37,9 +37,7 @@ app.MapDefaultEndpoints();
 
 app.UseSwagger();
 app.UseSwaggerUI();
-
 app.UseHttpsRedirection();
-
 app.MapGet("/", () => Results.Redirect("/swagger")).ExcludeFromDescription();
 
 var summaries = new[]
