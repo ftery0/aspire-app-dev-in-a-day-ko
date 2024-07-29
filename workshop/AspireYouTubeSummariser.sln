@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireYouTubeSummariser.WebApp", "AspireYouTubeSummariser.WebApp\AspireYouTubeSummariser.WebApp.csproj", "{49118891-7B48-41D9-B220-3C7DBD5AA577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireYouTubeSummariser.AppHost", "AspireYouTubeSummariser.AppHost\AspireYouTubeSummariser.AppHost.csproj", "{9E09E9BC-A9C7-4B4E-8F04-F7C46E63E63E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireYouTubeSummariser.ServiceDefaults", "AspireYouTubeSummariser.ServiceDefaults\AspireYouTubeSummariser.ServiceDefaults.csproj", "{FB142ABA-DD40-4608-8EDF-C4087912AC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49118891-7B48-41D9-B220-3C7DBD5AA577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49118891-7B48-41D9-B220-3C7DBD5AA577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49118891-7B48-41D9-B220-3C7DBD5AA577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49118891-7B48-41D9-B220-3C7DBD5AA577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E09E9BC-A9C7-4B4E-8F04-F7C46E63E63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E09E9BC-A9C7-4B4E-8F04-F7C46E63E63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E09E9BC-A9C7-4B4E-8F04-F7C46E63E63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E09E9BC-A9C7-4B4E-8F04-F7C46E63E63E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB142ABA-DD40-4608-8EDF-C4087912AC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB142ABA-DD40-4608-8EDF-C4087912AC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB142ABA-DD40-4608-8EDF-C4087912AC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB142ABA-DD40-4608-8EDF-C4087912AC87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
